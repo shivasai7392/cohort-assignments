@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96fb7c62-51c4-449d-aac4-0bd1c62e87e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/cohort-assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-js/easy/anagram.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-js/easy/anagram.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-js/easy/expenditure-analysis.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-js/easy/expenditure-analysis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-js/hard/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-js/hard/calculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-js/hard/todo-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-js/hard/todo-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-js/medium/countVowels.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-js/medium/countVowels.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-js/medium/palindrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-js/medium/palindrome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-js/medium/times.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-js/medium/times.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2durW3lRUSbHOahrMQjOR1cuEDk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.calculator.js.executor": "Run",
+    "Node.js.countVowels.js.executor": "Run",
+    "Node.js.palindrome.js.executor": "Run",
+    "Node.js.times.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/thota/.local/share/JetBrains/Toolbox/apps/webstorm/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96fb7c62-51c4-449d-aac4-0bd1c62e87e7" name="Changes" comment="" />
+      <created>1710868837264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710868837264</updated>
+      <workItem from="1710868840569" duration="59000" />
+      <workItem from="1710868930428" duration="3836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
